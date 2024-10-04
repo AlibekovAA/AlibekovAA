@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently employed at Kaspersky Lab and pursuing my fourth year in Applied Mathematics and Computer Science at the Moscow Power Engineering Institute (MPEI)<br>💬 Feel free to contact me via email at aslan.alibekov.2017@mail.ru or on Telegram at @alibekov_05
+🔭 I currently work at Kaspersky Lab and am a first-year master's student at the Faculty of Applied Mathematics and Informatics at the MPEI<br>💬 Feel free to contact me via email at aslan.alibekov.2017@mail.ru or on Telegram at @alibekov_05
 
 
 # 💻 Tech Stack:
@@ -7,8 +7,5 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
