@@ -41,7 +41,7 @@
   <h1>
     <a href="animated">Statistics and Metrics&#128421;</a>
   </h1>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alibekov05&theme=github_dark" alt="Details" width="100%" height="100%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alibekov05&theme=github_dark" alt="Language" width="49%" height="99%"/>&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alibekov05&theme=github_dark" alt="Stats" width="49%" height="99%"/>&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlibekovAA&theme=github_dark" alt="Details" width="100%" height="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlibekovAA&theme=github_dark" alt="Language" width="49%" height="99%"/>&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlibekovAA&theme=github_dark" alt="Stats" width="49%" height="99%"/>&nbsp;
 </div>
