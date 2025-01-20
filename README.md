@@ -27,6 +27,15 @@
       <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white" title="Tableau"/>&nbsp;
     </a>
   </h1>
+  <h2>
+    <a href="animated">🌐 Social Media:</a>
+  </h2>
+  <a href="https://t.me/alibekov_05" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://vk.com/alibekov_05" target="_blank">
+    <img src="https://img.shields.io/badge/VK-%231187C6.svg?style=flat-square&logo=vk&logoColor=white" alt="VK" />
+  </a>
 </div>
 
 <div id="about-me" align="center">
