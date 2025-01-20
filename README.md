@@ -43,7 +43,6 @@
     <a href="animated">💫 About Me:</a>
   </h2>
   <p>🔭 I currently work at Kaspersky Lab and am a first-year master's student at the Faculty of Applied Mathematics and Informatics at the MPEI</p>
-  <p>💬 Feel free to contact me via email at <a href="mailto:aslan.alibekov.2017@mail.ru">aslan.alibekov.2017@mail.ru</a> or on Telegram at <a href="https://t.me/alibekov_05">@alibekov_05</a></p>
 </div>
 
 <div id="stat" align="center">
