@@ -42,7 +42,7 @@
   <h2>
     <a href="animated">💫 About Me:</a>
   </h2>
-  <p>🔭 I currently work at Kaspersky Lab and am a first-year master's student at the Faculty of Applied Mathematics and Informatics at the MPEI</p>
+  <p>🔭 I currently work at Kaspersky Lab and am a second-year master's student at the Faculty of Applied Mathematics and Informatics at the MPEI</p>
 </div>
 
 <div id="stat" align="center">
